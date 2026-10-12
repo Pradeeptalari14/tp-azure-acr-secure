@@ -1,8 +1,10 @@
 # 🛡️ Azure ACR Security Guardrails
 > Secure Azure Container Registries. Generate ACR access controls, content trust validation settings, image signing tasks, and Defender security triggers.
 
-[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari14.github.io/portfolio/tools/azure-acr-secure/)
+[![Studio](https://img.shields.io/badge/Developer_Studio-Live-brightgreen)](https://pradeeptalari.me/tools/azure-acr-secure/)
 [![Category](https://img.shields.io/badge/Category-automation-blue)]()
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
 
 ---
 
@@ -132,7 +134,10 @@ Sets up alerts for config drift flags, script exits failures, or system storage 
 
 | Resource | Link |
 |----------|------|
-| Interactive Studio | [Open →](https://pradeeptalari14.github.io/portfolio/tools/azure-acr-secure/) |
-| All 91 Studios | [Dashboard →](https://pradeeptalari14.github.io/portfolio/tools/) |
+| Interactive Studio | [Open →](https://pradeeptalari.me/tools/azure-acr-secure/) |
+| All 91 Studios | [Dashboard →](https://pradeeptalari.me/tools/) |
 
-*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari14.github.io/portfolio)*
+*Part of [Talari Pradeep Developer Studio Portfolio](https://pradeeptalari.me)*
+
+---
+*Synchronized with [Azure ACR Security Guardrails Studio](https://pradeeptalari.me/tools/azure-acr-secure/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
